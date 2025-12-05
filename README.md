@@ -6,7 +6,7 @@ This repository contains the project **“Linguistic Advisor” (المستشا�
 An AI-powered Arabic linguistic advisor that helps users improve grammar, wording, and formal writing quality.
 
 ## Dataset
-The initial dataset used for training and evaluation is uploaded in this repository.
+
 
 ## Team
 Team Ranan – Samsung x Misk
