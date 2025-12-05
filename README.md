@@ -14,7 +14,7 @@ The system aims to improve users’ writing quality, increase their linguistic c
 The repository is organized as follows:
 
 - `Data_preparation/`  
-  Consists of notebooks for data preprocessing and preparation.
+  Consists of notebook for data preprocessing and preparation.
 
 - `AI_system_and_evaluation/`  
   Consists of notebooks for building the AI system, RAG pipeline, evaluation, and results.
