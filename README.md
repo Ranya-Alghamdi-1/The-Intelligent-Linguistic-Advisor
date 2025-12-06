@@ -1,7 +1,7 @@
 # The Intelligent Linguistic Advisor  
 المستشار اللغوي – فريق رنان
 
-This repository contains the project **“Linguistic Advisor” (المستشار اللغوي)** developed by **Team Ranan** as part of the Samsung – Misk AI program.
+This repository contains the project **“Linguistic Advisor” (المستشار اللغوي)** developed by **Team Ranan** as part of the Samsung – Misk AI Innovation program.
 
 The project is motivated by the growing need for accessible, accurate, and fast linguistic support in Modern Standard Arabic as digital communication expands.  
 Our main objective is to develop an **AI-powered conversational system** capable of delivering high-quality linguistic consultations using **trusted, authoritative datasets** from the King Salman Global Academy for Arabic Language.  
