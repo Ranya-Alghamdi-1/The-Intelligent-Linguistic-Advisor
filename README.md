@@ -1,4 +1,4 @@
-<img width="823" height="485" alt="image" src="https://github.com/user-attachments/assets/28d420eb-8a1d-4cf9-b03e-e3c1984cb0e5" /># The Intelligent Linguistic Advisor  
+#The Intelligent Linguistic Advisor  
 المستشار اللغوي – فريق رنان
 
 This repository contains the project **“Linguistic Advisor” (المستشار اللغوي)** developed by **Team Ranan** as part of the Samsung – Misk AI Innovation program.
